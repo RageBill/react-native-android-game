@@ -21,7 +21,7 @@ Gameplay instructions:
 
 Click when the rectangle turns yellow to score 1 point. If you click on the blue rectangle, you will get 1 score deducted. 
 
-When the score increases to a certain amount, the number of square will increase. 
+When the score increases to a certain amount, the number of rectangle will increase. 
 
 There will only be exactly 1 rectangle turning yellow at any time.
 
