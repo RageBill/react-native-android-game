@@ -5,7 +5,7 @@ Please be noted that only Android version is working, you may want to ignore the
 
 To run, you can use an android device emulator (e.g. Genymotion).
 
-Step to run:
+Steps to run (make sure react-native, android sdk & android device emulator are installed before you run):
 
 1) In Terminal, execute the following command:
 export ANDROID_HOME=*Your Android SDK Path Here (e.g. /usr/local/Cellar/android-sdk/24.4.1_1)*
@@ -16,3 +16,13 @@ export ANDROID_HOME=*Your Android SDK Path Here (e.g. /usr/local/Cellar/android-
 react-native run-android
 
 4) Enjoy this simple game!
+
+Gameplay instructions:
+
+Click when the rectangle turns yellow to score 1 point. If you click on the blue rectangle, you will get 1 score deducted. 
+
+When the score increases to a certain amount, the number of square will increase. 
+
+There will only be exactly 1 rectangle turning yellow at any time.
+
+Turn on your sound and enjoy this reaction game!
